@@ -1,0 +1,5 @@
+.list { display: flex; justify-content: space-between; }
+.list article {  }
+.list article h3 { font-size: 25px; margin-bottom: 10px; }
+.list article div {  margin-bottom: 20px;}
+.list article p { font-size: 18px;  }
